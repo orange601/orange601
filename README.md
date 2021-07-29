@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%Hey!%20&height=300&fontSize=100&textBg=true&animation=twinkling)
 
 
+## My Stats ##
+[![Orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=orange601)](https://github.com/orange601/orange601)
+
+
 ![N|Solid](https://img.shields.io/static/v1?label=label&message=message&color=green)
 [![N|Solid](https://img.shields.io/static/v1?label=hey&message=orange-github&color=orange)](https://github.com/orange601/orange601)
 
 
-
-[![Orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=orange601)](https://github.com/orange601/orange601)
