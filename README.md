@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 로그 예제 )
+- 라벨 예제 )
+  ![N|Solid](https://img.shields.io/static/v1?label=label&message=message&color=green)
   ![Tech](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom/)
 
 -->
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 [![Orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=orange601)](https://github.com/orange601/orange601)
 
 ## &#128587; About Me ##
-![N|Solid](https://img.shields.io/static/v1?label=label&message=message&color=green)
+
 [![N|Solid](https://img.shields.io/static/v1?label=hey&message=orange-github&color=orange)](https://github.com/orange601/orange601)
 ![Java](https://img.shields.io/badge/%20JAVA%20-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/%20Springboot%20-6DB33F?style=flat-square&logo=Spring&logoColor=white)
