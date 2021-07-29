@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%Hey!%20&height=230&fontSize=50&textBg=true&animation=twinkling)
 
-
 ## &#128640; My Stats ##
 [![Orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=orange601)](https://github.com/orange601/orange601)
-
 
 ## &#128587; About Me ##
 ![N|Solid](https://img.shields.io/static/v1?label=label&message=message&color=green)
