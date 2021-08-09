@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/%20ApacheTomcat%20-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=000000)
 <!-- Amazon AWS -->
 <!-- MariaDB Foundation -->
+<!-- Postman -->
+<!-- PowerShell -->
 
 ## &#127775; My Dream ##
 Grass Gardener
