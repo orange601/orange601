@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/%20Slack%20-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![ApacheTomcat](https://img.shields.io/badge/%20ApacheTomcat%20-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=000000)
 ![AmazonAWS](https://img.shields.io/badge/%20AmazonAWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
-![MariaDB](https://img.shields.io/badge/%20MariaDB%20-232F3E?style=flat-square&logo=MariaDB&logoColor=white)
+![MariaDB](https://img.shields.io/badge/%20MariaDB%20-003545?style=flat-square&logo=MariaDB&logoColor=white)
 <!-- MariaDB Foundation -->
 <!-- Postman -->
 <!-- PowerShell -->
