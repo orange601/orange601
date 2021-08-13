@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![ApacheTomcat](https://img.shields.io/badge/%20ApacheTomcat%20-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=000000)
 ![AmazonAWS](https://img.shields.io/badge/%20AmazonAWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/%20MariaDB%20-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![Postman](https://img.shields.io/badge/%20Postman%20-003545?style=flat-square&logo=Postman&logoColor=white)
+![Postman](https://img.shields.io/badge/%20Postman%20-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 <!-- Postman -->
 <!-- PowerShell -->
 <!-- Swagger --> 
