@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/%20MariaDB%20-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![Postman](https://img.shields.io/badge/%20Postman%20-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/%20Swagger%20-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
+![Gradle](https://img.shields.io/badge/%20Gradle%20-02303A?style=flat-square&logo=Gradle&logoColor=white)
 
 ## &#127775; My Dream ##
 Grass Gardener
