@@ -228,7 +228,7 @@
 
   <!-- Hi, I'm Sigrid Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="159" height="42" rx="18.0355" />
+    <rect width="140" height="42" rx="18.0355" />
     <text x="15" y="27">Yo, yo yo</text>
   </g>
 
@@ -277,7 +277,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="459" height="33.1302" rx="18.0355" class="bubble" />
+    <rect width="140" height="33.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">what up?!</text>
   </g>
 
@@ -301,7 +301,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
+    <rect width="160" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       Leave it at the tone. 
     </text>
@@ -327,7 +327,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="255" height="33.13" rx="18.0355" class="bubble" />
+    <rect width="140" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks. </text>
   </g>
 </svg>
