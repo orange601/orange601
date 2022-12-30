@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%Yes,Magnets!%20&height=230&fontSize=50&textBg=true&animation=twinkling)
 
+## 🐍 Watch My Snake ##
 ![snake gif](https://github.com/orange601/orange601/blob/output/github-contribution-grid-snake.svg)
 
 ## &#128640; My Stats ##
