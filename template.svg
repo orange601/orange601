@@ -253,8 +253,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am from Seoul, Korea where it’s supposed to be</text>
-    <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
+    <text x="15" y="27">148-3 to the 3 to the 6 to the 9</text>
+    <text x="15" y="50">representing the ABQ</text>
   </g>
 
   <!-- typing 3 -->
@@ -277,9 +277,8 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">148-3 to the 3 to the 6 to the 9</text>
-    <text x="15" y="50">representing the ABQ</text>
+    <rect width="459" height="33.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">what up?!</text>
   </g>
 
   <!-- typing 4 -->
@@ -304,7 +303,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="415" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      what up?!
+      Leave it at the tone. 
     </text>
   </g>
 
@@ -328,7 +327,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="255" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Leave it at the tone. </text>
+    <rect width="255" height="33.13" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Thanks. </text>
   </g>
 </svg>
