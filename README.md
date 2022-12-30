@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🐍 Watch My Snake ##
 ![snake gif](https://github.com/orange601/orange601/blob/output/github-contribution-grid-snake.svg)
 
-## Message ##
+## 💬 Message ##
 ![message](https://github.com/orange601/orange601/blob/main/template.svg)
 
 ## &#128640; My Stats ##
