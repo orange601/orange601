@@ -259,7 +259,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="140" height="33.1302" rx="18.0355" class="bubble" />
+    <rect width="140" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">what up?!</text>
   </g>
 
@@ -309,7 +309,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="140" height="33.13" rx="18.0355" class="bubble" />
+    <rect width="140" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks. </text>
   </g>
 </svg>
