@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   ![Tech](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom/)
 
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%Hey!%20&height=230&fontSize=50&textBg=true&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%Yes, Magnets!%20&height=230&fontSize=50&textBg=true&animation=twinkling)
 
 ## &#128640; My Stats ##
 [![Orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=orange601)](https://github.com/orange601/orange601)
